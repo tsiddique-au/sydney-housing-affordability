@@ -55,8 +55,12 @@ Screenshots of each page are in the `/screenshots` folder.
 ---
 
 ## How to view the project
-- Download the `.pbix` file to explore the full report
-- Use screenshots for a quick overview without Power BI
+- Download the `.pbix` file to explore the full report, model, and measures
+- Screenshots are included for a quick overview without Power BI
+- Optional: View the interactive report online  
+  (link may require sign-in and access permissions)
+
+[View interactive report](https://app.powerbi.com/links/cFiZlxAX80?ctid=7e8494e4-2812-4989-9e16-b15c37ce1f63&pbi_source=linkShare)
 
 ---
 
